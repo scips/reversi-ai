@@ -1,0 +1,24 @@
+{
+  "name": "reversi-ai",
+  "version": "1.0.0",
+  "description": "Reversi Game + AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scips/reversi-ai.git"
+  },
+  "keywords": [
+    "Reversi",
+    "Game",
+    "AI"
+  ],
+  "author": "Sébastien Barbieri <seba@rtbf.be>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/scips/reversi-ai/issues"
+  },
+  "homepage": "https://github.com/scips/reversi-ai#readme"
+}
